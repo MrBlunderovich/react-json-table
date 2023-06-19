@@ -1,0 +1,19 @@
+{
+  "name": "react-json-table-modified",
+  "version": "0.1.0",
+  "description": "This is an exercise package. Do not use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBlunderovich/react-json-table.git"
+  },
+  "author": "mrBlunderovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrBlunderovich/react-json-table/issues"
+  },
+  "homepage": "https://github.com/MrBlunderovich/react-json-table#readme"
+}
