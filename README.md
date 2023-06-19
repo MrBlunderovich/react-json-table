@@ -16,14 +16,6 @@ var items = [
 React.render(<JsonTable rows={items} />, document.body);
 ```
 
-## Installation
-
-Using node package manager:
-
-```
-npm install react-json-table --save //FIXIT
-```
-
 ## Usage
 
 You can see the simplest example of use at the top of this page, but probably you would like to customize a bit the behaviour of the table to adapt it to your needs. Have a look at the accepted component props.
