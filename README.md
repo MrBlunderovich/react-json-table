@@ -1,6 +1,7 @@
 # This is a modified 'react-json-table' package
 
 This package has been created as part of an exercise. Do not use it for important stuff.
+Seems to work with React18. Code has been updated by ChatGPT. Beware.
 
 A simple but flexible table react component to display JSON data.
 
